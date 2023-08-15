@@ -1,2 +1,2 @@
-email :
-gitID :
+email : qaz75391@naver.com	
+gitID :	GOGOYS
